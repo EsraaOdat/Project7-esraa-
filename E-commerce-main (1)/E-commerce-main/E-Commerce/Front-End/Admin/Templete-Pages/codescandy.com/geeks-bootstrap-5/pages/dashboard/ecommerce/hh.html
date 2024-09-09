@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Coupon - Admin</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="text-center mb-4">Add New Coupon</h2>
+
+        <form id="couponForm" class="shadow p-4 bg-light">
+            <!-- Coupon Name -->
+            <div class="form-group">
+                <label for="couponName">Coupon Name:</label>
+                <input type="text" class="form-control" id="couponName" name="couponName" placeholder="Enter coupon name" required>
+            </div>
+
+            <!-- Coupon Code -->
+            <div class="form-group">
+                <label for="couponCode">Coupon Code:</label>
+                <input type="text" class="form-control" id="couponCode" name="couponCode" placeholder="Enter coupon code" required>
+            </div>
+
+            <!-- Discount Percentage -->
+            <div class="form-group">
+                <label for="discount">Discount Percentage (%):</label>
+                <input type="number" class="form-control" id="discount" name="discount" placeholder="Enter discount percentage" required>
+            </div>
+
+            <!-- Expiration Date -->
+            <div class="form-group">
+                <label for="expirationDate">Expiration Date:</label>
+                <input type="date" class="form-control" id="expirationDate" name="expirationDate" required>
+            </div>
+
+            <!-- Usage Status -->
+            <div class="form-group">
+                <label for="usageStatus">Usage Status:</label>
+                <select class="form-control" id="usageStatus" name="usageStatus" required>
+                    <option value="unused">Unused</option>
+                    <option value="used">Used</option>
+                </select>
+            </div>
+
+            <!-- Submit Button -->
+            <button type="submit" class="btn btn-primary btn-block">Add Coupon</button>
+        </form>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+        document.getElementById('couponForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            alert('Coupon added successfully!');
+        });
+    </script>
+</body>
+</html>

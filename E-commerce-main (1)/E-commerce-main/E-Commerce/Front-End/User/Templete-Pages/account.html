@@ -22,6 +22,9 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- Responsive css -->
     <link rel="stylesheet" href="css/responsive.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+
+
 </head>
 
 <body>
@@ -526,7 +529,12 @@
                                                                     <th>Status</th>
                                                                     <th>Total</th>
                                                                     <th>Action</th>
+                                                                    
                                                                 </tr>
+
+
+                                                                
+
                                                             </thead>
                                                             <tbody id="Orders">
 
@@ -534,6 +542,17 @@
 
                                                             </tbody>
                                                         </table>
+                                                        
+                                                        <button onclick="downloadExcel()" style="background-color: green; border: none; border-radius: 5px; padding: 10px 20px; cursor: pointer; color: white; transition: transform 0.2s;">
+                                                            <i class="fas fa-download" style="font-size: 16px;"></i> Download
+                                                        </button>
+                                                        
+                                                        <style>
+                                                            button:hover {
+                                                                transform: scale(1.1);
+                                                            }
+                                                        </style>
+                                                        
                                                     </div>
                                                 </div>
                                             </div>
@@ -867,6 +886,7 @@
     <td>   $${order.total.toFixed(2)}
 </td>
     <td><a href="Order Details.html"onclick="storeOrderId(${order.orderId})">View</a></td>
+</td>
 </tr>
      
               `;
@@ -903,6 +923,33 @@
             //  window.location.href = `/orders/details/${orderId}`;
         }
 
+//------------------------------------------------------------------------------------
+function downloadExcel() {
+    // اختيار الجدول من HTML
+    var table = document.getElementById('Orders');
+
+    // إنشاء مصفوفة لتخزين البيانات
+    var data = [];
+    var rows = table.querySelectorAll('tr');
+    
+    // إضافة الصفوف إلى المصفوفة
+    rows.forEach(function(row) {
+        var rowData = [];
+        var cells = row.querySelectorAll('td, th');
+        cells.forEach(function(cell) {
+            rowData.push(cell.innerText);
+        });
+        data.push(rowData);
+    });
+
+    // إنشاء ورقة Excel
+    var ws = XLSX.utils.aoa_to_sheet(data);
+    var wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, 'Orders');
+
+    // تحميل الملف
+    XLSX.writeFile(wb, 'Orders.xlsx');
+}
 
 
         //--------------------------------------------------------------------------

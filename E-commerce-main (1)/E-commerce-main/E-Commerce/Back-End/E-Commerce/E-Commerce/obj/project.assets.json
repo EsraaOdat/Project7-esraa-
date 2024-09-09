@@ -4529,11 +4529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
+      "projectUniqueName": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
       "projectName": "E-Commerce",
-      "projectPath": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
+      "projectPath": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
       "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\obj\\",
+      "outputPath": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

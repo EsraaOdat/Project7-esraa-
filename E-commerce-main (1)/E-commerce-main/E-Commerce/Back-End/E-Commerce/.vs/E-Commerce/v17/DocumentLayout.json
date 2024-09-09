@@ -1,85 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\esraa\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\esraa\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\esraa\\coponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\esraa\\coponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dto_esraa\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\updatecoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dto_esraa\\updatecoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\addcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dto_esraa\\addcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\copon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\copon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\esraa\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\esraa\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\copon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\copon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dto_esraa\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\esraa\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\esraa\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dto_esraa\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\esraa\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\esraa\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dto_esraa\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dto_esraa\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\esraa\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\esraa\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\esraa\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\e-commerce.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\e-commerce.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\e-commerce.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\passwordhashermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\passwordhashermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dto_esraa\\passwordhashermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\usersrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\dto_esraa\\usersrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dto_esraa\\usersrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\downloads\\new folder (3)\\project7-esraa-\\e-commerce-main (1)\\e-commerce-main\\e-commerce\\back-end\\e-commerce\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -93,27 +117,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderDetailsDto.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\OrderDetailsDto.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Dto_Esraa\\OrderDetailsDto.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\OrderDetailsDto.cs",
-              "RelativeToolTip": "E-Commerce\\Dto_Esraa\\OrderDetailsDto.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA2wB0AAAAcAAAA",
+              "Title": "UpdateCouponDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\UpdateCouponDTO.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Dto_Esraa\\UpdateCouponDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\UpdateCouponDTO.cs",
+              "RelativeToolTip": "E-Commerce\\Dto_Esraa\\UpdateCouponDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T07:40:27.706Z"
+              "WhenOpened": "2024-09-09T04:57:08.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCouponDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\AddCouponDTO.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Dto_Esraa\\AddCouponDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\AddCouponDTO.cs",
+              "RelativeToolTip": "E-Commerce\\Dto_Esraa\\AddCouponDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:55:33.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CoponController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\CoponController.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Controllers\\Esraa\\CoponController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\CoponController.cs",
+              "RelativeToolTip": "E-Commerce\\Controllers\\Esraa\\CoponController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAArwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:54:53.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Contact.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\Contact.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:20:18.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Copon.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Copon.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\Copon.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Copon.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\Copon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:20:51.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "E-Commerce\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAALcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:53:03.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\ProductRequestDTO.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Dto_Esraa\\ProductRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\ProductRequestDTO.cs",
+              "RelativeToolTip": "E-Commerce\\Dto_Esraa\\ProductRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:52:03.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Product.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:54:47.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\OrdersController.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Controllers\\Esraa\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\OrdersController.cs",
               "RelativeToolTip": "E-Commerce\\Controllers\\Esraa\\OrdersController.cs",
               "ViewState": "AQIAAIwAAAAAAAAAAAAQwJ8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,11 +238,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "OrderDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\OrderDetailsDto.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Dto_Esraa\\OrderDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\OrderDetailsDto.cs",
+              "RelativeToolTip": "E-Commerce\\Dto_Esraa\\OrderDetailsDto.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA2wB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:40:27.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\UsersController.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Controllers\\Esraa\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\UsersController.cs",
               "RelativeToolTip": "E-Commerce\\Controllers\\Esraa\\UsersController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAgwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,35 +262,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Contact.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Contact.cs",
-              "RelativeToolTip": "E-Commerce\\Models\\Contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T08:20:18.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Copon.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Copon.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Models\\Copon.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Copon.cs",
-              "RelativeToolTip": "E-Commerce\\Models\\Copon.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T08:20:51.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "E-Commerce\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
               "RelativeToolTip": "E-Commerce\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -170,11 +274,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\User.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\User.cs",
               "RelativeToolTip": "E-Commerce\\Models\\User.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -182,11 +286,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "ChangePasswordDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\ChangePasswordDTO.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Dto_Esraa\\ChangePasswordDTO.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\ChangePasswordDTO.cs",
               "RelativeToolTip": "E-Commerce\\Dto_Esraa\\ChangePasswordDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,11 +298,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "OrderResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\OrderResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\OrderResponseDto.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Dto_Esraa\\OrderResponseDto.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\OrderResponseDto.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\OrderResponseDto.cs",
               "RelativeToolTip": "E-Commerce\\Dto_Esraa\\OrderResponseDto.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA1wBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,11 +310,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Order.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Order.cs",
               "RelativeToolTip": "E-Commerce\\Models\\Order.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAA7wBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,11 +322,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "CommentController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\CommentController.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Controllers\\Esraa\\CommentController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\CommentController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Esraa\\CommentController.cs",
               "RelativeToolTip": "E-Commerce\\Controllers\\Esraa\\CommentController.cs",
               "ViewState": "AQIAAFQAAAAAAAAAAAAuwHUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,22 +334,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "E-Commerce",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
               "RelativeDocumentMoniker": "E-Commerce\\E-Commerce.csproj",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
               "RelativeToolTip": "E-Commerce\\E-Commerce.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-08T01:00:27.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Models\\Comment.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\Comment.cs",
               "RelativeToolTip": "E-Commerce\\Models\\Comment.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,11 +357,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "E-Commerce\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -265,11 +369,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\HomeController.cs",
               "RelativeToolTip": "E-Commerce\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -277,11 +381,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "PasswordHasherMethod.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\PasswordHasherMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\PasswordHasherMethod.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Dto_Esraa\\PasswordHasherMethod.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\PasswordHasherMethod.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\PasswordHasherMethod.cs",
               "RelativeToolTip": "E-Commerce\\Dto_Esraa\\PasswordHasherMethod.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,11 +393,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "UsersRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\UsersRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\UsersRequestDTO.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Dto_Esraa\\UsersRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\UsersRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Dto_Esraa\\UsersRequestDTO.cs",
               "RelativeToolTip": "E-Commerce\\Dto_Esraa\\UsersRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -301,23 +405,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\yaman\\TestGitHubThings\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Desktop\\yaman\\TestGitHubThings\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Desktop\\yaman\\TestGitHubThings\\appsettings.json",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\yaman\\TestGitHubThings\\appsettings.json",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\yaman\\TestGitHubThings\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Desktop\\yaman\\TestGitHubThings\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-06T14:56:30.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\appsettings.json",
               "RelativeDocumentMoniker": "E-Commerce\\appsettings.json",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\appsettings.json",
               "RelativeToolTip": "E-Commerce\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -325,11 +429,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Program.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Program.cs",
               "RelativeToolTip": "E-Commerce\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,11 +441,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\Orange\\Downloads\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\New folder (3)\\Project7-esraa-\\E-commerce-main (1)\\E-commerce-main\\E-Commerce\\Back-End\\E-Commerce\\E-Commerce\\Models\\MyDbContext.cs",
               "RelativeToolTip": "E-Commerce\\Models\\MyDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
